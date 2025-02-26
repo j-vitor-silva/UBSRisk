@@ -1,4 +1,4 @@
-# USBRisk
+# UBSRisk
 
 Este projeto trata-se de uma aplicação console, elaborada para categorizar operações de trade, considerando suas características e as regras específicas de cada categoria.
 
