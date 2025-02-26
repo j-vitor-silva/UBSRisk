@@ -1,0 +1,8 @@
+# Arquivos de build
+/bin/
+/obj/
+
+# Arquivos temporários do Visual Studio
+*.suo
+*.user
+*.csproj.user
