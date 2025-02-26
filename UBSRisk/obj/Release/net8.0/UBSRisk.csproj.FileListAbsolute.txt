@@ -1,0 +1,14 @@
+C:\Projetos\UBSRisk\bin\Release\net8.0\UBSRisk.exe
+C:\Projetos\UBSRisk\bin\Release\net8.0\UBSRisk.deps.json
+C:\Projetos\UBSRisk\bin\Release\net8.0\UBSRisk.runtimeconfig.json
+C:\Projetos\UBSRisk\bin\Release\net8.0\UBSRisk.dll
+C:\Projetos\UBSRisk\bin\Release\net8.0\UBSRisk.pdb
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.AssemblyInfoInputs.cache
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.AssemblyInfo.cs
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.csproj.CoreCompileInputs.cache
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.dll
+C:\Projetos\UBSRisk\obj\Release\net8.0\refint\UBSRisk.dll
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.pdb
+C:\Projetos\UBSRisk\obj\Release\net8.0\UBSRisk.genruntimeconfig.cache
+C:\Projetos\UBSRisk\obj\Release\net8.0\ref\UBSRisk.dll
