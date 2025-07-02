@@ -1,6 +1,6 @@
 # UBSRisk
 
-Este projeto trata-se de uma aplicação console, elaborada para categorizar operações de trade, considerando suas características e as regras específicas de cada categoria.
+Este projeto trata-se de uma aplicação console, elaborada para categorizar operações de trade, considerando suas características e as regras específicas de cada categoria. Foi realizado por mim para apresentação em um teste de processo seletivo.
 
 O programa é bem intuitivo e, apesar de ser um console, a interface foi desenvolvida de forma autoexplicativa.
 
